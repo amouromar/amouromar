@@ -1,6 +1,6 @@
 ## Hey, I'm Amour 👋
 
-Front-end developer building fast, clean UIs with React and Next.js.
+Front-end developer.
 
 **Stack I work with daily:**
 - React · Next.js · TypeScript · Tailwind CSS
